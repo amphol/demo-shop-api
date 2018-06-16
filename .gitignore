@@ -130,3 +130,6 @@ lib-cov
 *.out
 *.pid
 
+
+.vscode
+config/datastores.js
