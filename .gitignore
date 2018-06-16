@@ -132,4 +132,4 @@ lib-cov
 
 
 .vscode
-config/datastores.js
+./config/datastores.js
